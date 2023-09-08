@@ -1,3 +1,3 @@
 Cataclysm: Dark Days Ahead
 
-Proof of concept implemeting raycasting to game.
+Proof of concept implementing raycasting to game.
